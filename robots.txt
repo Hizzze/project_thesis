@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /*?page=
+Disallow: /*?sort=
+Disallow: /*tmdcheckout
+Disallow: /admin
+
+Host: https://converse-official.com.ua
+Sitemap: https://converse-official.com.ua/sitemap1
