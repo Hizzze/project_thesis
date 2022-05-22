@@ -1,1 +1,3 @@
-# project_thesis
+Посилання на опублікований сайт:
+https://sliva-oliva.loan/
+====================
